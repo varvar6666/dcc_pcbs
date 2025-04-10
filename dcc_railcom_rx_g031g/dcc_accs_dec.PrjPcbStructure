@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Out1|SchDesignator=Out1|FileName=out.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=out.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Out2|SchDesignator=Out2|FileName=out.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=out.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Out3|SchDesignator=Out3|FileName=out.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=out.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Out4|SchDesignator=Out4|FileName=out.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=out.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
